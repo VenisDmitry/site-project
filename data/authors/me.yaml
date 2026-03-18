@@ -28,10 +28,10 @@ interests:
 
 
 education:
-- degree: BS Computer Science
+  - degree: BS Computer Science
     institution: People Friendship University of Russia
-    start: 2025-01-09
-    end: 2029-30-06
+    start: 2025-09-01
+    end: 2029-06-30
 skills:
   - name: Technical Skills
     items:
