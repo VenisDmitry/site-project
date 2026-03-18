@@ -1,27 +1,6 @@
----
-title: Системы управления версиями. Git
-summary: Основы работы с Git и системами контроля версий
-date: 2026-03-19
-authors:
-  - me
-tags:
-  - Git
-  - Version Control
-image:
-  caption: 'Image credit: [Unsplash](https://unsplash.com)'
-cover:
-  image: "https://unsplash.com/photos/a-white-ball-with-the-word-git-on-it-aVAHRUP7keU"
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
+# Системы управления версиями. Git
+## Основы работы с Git и системами контроля версий
+
 ---
 
 ## Что такое система управления версиями?
