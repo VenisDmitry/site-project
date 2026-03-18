@@ -22,8 +22,6 @@ cover:
   fade:
     enabled: true
     height: "80px"
-  icon:
-    name: "💻"
 ---
 
 ## Что такое система управления версиями?
