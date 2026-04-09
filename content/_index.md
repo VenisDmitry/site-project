@@ -10,17 +10,6 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: collection
-    content:
-      title: Achievements
-
-  - block: skills
-    content:
-      title: Skills
-
-  - block: experience
-    content:
-      title: Experience
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
