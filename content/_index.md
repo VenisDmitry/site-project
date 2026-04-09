@@ -10,7 +10,7 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: accomplishments
+  - block: collection
     content:
       title: Achievements
 
