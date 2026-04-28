@@ -9,8 +9,8 @@ en:
   #contentDir: content/en
 
 ru:
-   languageCode: zh-Hans
-   contentDir: content/zh
+   languageCode: ru-ru
+   contentDir: content/ru
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
