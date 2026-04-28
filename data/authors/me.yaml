@@ -17,6 +17,18 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/VenisDmitry
+  - icon: brands/scholar
+    url: https://scholar.google.com/@venisdmitry
+  - icon: brands/orcid
+    url: https://orcid.org/@venisdmitry
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/@venisdmitry
+  - icon: brands/research
+    url: https://www.researchgate.net/@venisdmitry
+  - icon: brands/academia
+    url: https://www.academia.edu/@venisdmitry
+  - icon: brands/arxiv
+    url: https://www.arxiv.org/@venisdmitry
 
 interests:
   - Large Language Models
